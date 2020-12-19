@@ -1,0 +1,8 @@
+
+# 编译
+./configure --prefix=/opt/xz --sysconfdir=/opt/xz/conf
+make
+
+# 安装
+make install
+
