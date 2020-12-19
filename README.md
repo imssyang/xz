@@ -1,2 +1,4 @@
 # xz
-/opt/xz
+
+https://tukaani.org/xz/
+
